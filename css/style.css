@@ -187,9 +187,19 @@ footer div a {
     align-items: flex-start;
   }
 }
-@media screen and (min-width: 1500px) {
+@media screen and (min-width: 1100px) {
+  main {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1300px) {
   main {
     width: 70%;
+  }
+}
+@media screen and (min-width: 1500px) {
+  main {
+    width: 60%;
   }
 }
 
