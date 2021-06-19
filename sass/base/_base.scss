@@ -1,0 +1,7 @@
+body{
+    font-size: 12px;
+    background: linear-gradient($firstGradientColor, $secondGradientColor);
+    height: 100vh;
+    font-family: $mainFont, sans-serif;
+    color: $mainFontColor;
+}
