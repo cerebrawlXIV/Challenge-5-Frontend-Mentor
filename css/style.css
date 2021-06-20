@@ -125,7 +125,6 @@ main section div p:first-child span {
   transform: rotate(180deg);
   font-size: 0.8em;
   color: #eb9073;
-  font-size: 1em;
 }
 main section div p:first-child.titleActive {
   color: #2b2b36;

@@ -61,8 +61,7 @@ main{
                         transition-duration: .2s;
                         transform: rotate(180deg);
                         font-size: .8em;
-                        color: $chevronColor;
-                        font-size: 1em;
+                        color: $chevronColor;                   
                     }
                     &.titleActive{
                         color: darken($mainFontColor, 14%);
